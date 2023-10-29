@@ -1,24 +1,23 @@
 # machine_learning_project-supervised-learning
 
-## Project Outcomes
-- Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
-### Duration:
-Approximately 3 hours and 20 minutes.
-### Project Description:
-In this projects, you will apply supervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
+To do:
+- write/call functions
+- find models with best scores and conclude
+- you can do it!!!!!!
 
-The data set for this project is the "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases 
-The project will involve the following tasks:
 
--	Exploratory data analysis and pre-processing: We will import and clean the data sets, analyze and visualize the relationships between the different variables, handle missing values and outliers, and perform feature engineering as needed.
--	Supervised learning: We will use the Diabetes dataset to build a machine learning model that can predict whether a patient has diabetes or not, using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. We will select at least two models, including one ensemble model, and compare their performance.
-
-The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
-
-## Notes
 
 ## Goals
+1. Apply supervised machine learning techniques
+2. I want to focus on EDA as well, it is one of my weak point
+3. practice using more function as opposed to hard cosing
 
 ## Process
+I applied EDA techniques to better understand the dataset. Once I better understood the dataset, I preprocessed the data by replacing outliers with the approriate median value. I also scaled the data here as well. I chose to to a Logistic Regression and a Random Forest on the data.
+
 
 ## Results
+
+## Future Goals
+
+## Acknowledgements
